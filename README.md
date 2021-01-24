@@ -34,10 +34,12 @@ The chart clearly shows that for the chosen time period, Urban cities had the hi
 Here are a few recommendations for addressing disparaties between the city types: 
 1. Increase Rural Drivers
 
-There were much less rides in Rural cities than in Suburban and Urban cities. This is almost certainly due in part to a lower demand for rides in less populated areas. However, it could also be partially due to the fact that there are many less drivers in Rural areas. If the amount of drivers in Rural areas is increased, this could increase the total number of rides. This would be beneficial for the company, because Rural rides have the highest average fare. 
+  There were much less rides in Rural cities than in Suburban and Urban cities. This is almost certainly due in part to a lower demand for rides in less populated areas. However, it could also be partially due to the fact that there are many less drivers in Rural areas. If the amount of drivers in Rural areas is increased, this could increase the total number of rides. This would be beneficial for the company, because Rural rides have the highest average fare. 
+
 2. Increase Rates for Urban Rides
 
-Although the number of Urban rides far surpassed the other city types, the average fare per ride was the lowest in Urban cities. Presumably, the demand for rides in Urban cities is high becuase of the high population. An increase in the fare for these Urban rides could potentially lead to much higher average fares per ride, and could have a negligible impact on the amount of rides that are taken. It would be beneficial to test these Urban rides out at different price points. 
+  Although the number of Urban rides far surpassed the other city types, the average fare per ride was the lowest in Urban cities. Presumably, the demand for rides in Urban cities is high becuase of the high population. An increase in the fare for these Urban rides could potentially lead to much higher average fares per ride, and could have a negligible impact on the amount of rides that are taken. It would be beneficial to test these Urban rides out at different price points. 
+
 3. Decrease the Rates for Rural Rides
 
-Rural riders could be deterred from using PyBer because the average fair per ride is so high. Lowering this rate could increase the demand for rides in Rural cities. Although Rural rides are likely longer in distance, they could be shorter in time than Urban and Suburban rides because there is less traffic and congestion in Rural areas. This could justify a price drop in Rural rides, which could increase the amount of rides taken. 
+  Rural riders could be deterred from using PyBer because the average fair per ride is so high. Lowering this rate could increase the demand for rides in Rural cities. Although Rural rides are likely longer in distance, they could be shorter in time than Urban and Suburban rides because there is less traffic and congestion in Rural areas. This could justify a price drop in Rural rides, which could increase the amount of rides taken. 
