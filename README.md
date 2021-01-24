@@ -4,7 +4,7 @@
 In this analysis, we sought to derive information on the drivers and fares for each city type. Our first goal was to create a Pandas dataframe which outlined these data points. Second, we were asked to create a multiple line plot that showed the weekely fares for each type of city. This analysis will allow PyBer to have greater insight in to the the distribution of its rideshare business. 
 
 ## Results
-## Summary Dataframe
+### Summary Dataframe
 Our first goal was to deliver a dateframe which summarized information about drivers, city types and fares. The resulting dataframe is displayed below:
 
 ![Summary Dataframe](/analysis/pyber_summary_df.png)
@@ -13,7 +13,7 @@ As shown in the dataframe, Urban cities had the highest amount of total rides an
 
 Rural cities had the highest amount of average fare per ride and average fare per driver, followed by Suburban and then Urban cities. This is likely because Rural rides covered longer distances on average than the rides in Urban and Suburban cities. 
 
-## Total Weekly Fares per City Type
+### Total Weekly Fares per City Type
 Our second goal was to create a chart which showed the total weekly fares for each type of city. To achieve this goal, we created a multiple line chart so that we could compare the data from all three city types at once. 
 
 For this chart, we first created a dataframe which showed the sum of the fares for each date, and where the indices were the city type and date. We then reset the standard numerical indices. Next, we created a pivot table where the 'date' series became the index, the columns became the city 'type' and the vales were amounts from the 'fare' series. Then, we used the 'df_pivot.loc[]' method to select the rides between the dates of January 1, 2019 and April 29, 2019. A screenshot of this line of code and the resulting dataframe is shown below:
